@@ -1,0 +1,2 @@
+class Comt < ApplicationRecord
+end
